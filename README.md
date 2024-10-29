@@ -1,4 +1,4 @@
-# Mental Health in the Workplace: Impact Analysis and Predictive Modeling
+# Mental Health in the Workplace: Impact Analysis and Predictive Modeling 
 
 This project focuses on analyzing the impact of mental health in the workplace, particularly the observed negative consequences for coworkers with mental health conditions. Using a dataset from a mental health survey, we preprocess the data, conduct exploratory data analysis (EDA), and evaluate various classification models to predict the likelihood of negative consequences in the workplace.
 
